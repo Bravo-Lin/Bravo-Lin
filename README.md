@@ -6,9 +6,7 @@
   </b>
 </h1>
 
-<h2>
   👨‍💻 A front-end engineer
-</h2>
 <br/>
 
 <a href="https://www.bravolin.me">
@@ -31,10 +29,8 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravo-Lin)
 
-<hr/>
-<h2>
+
   📧 Contact me
-</h2>
 
 <a href="mailto:bravolin9527@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-bravolin9527@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)
 </a>
