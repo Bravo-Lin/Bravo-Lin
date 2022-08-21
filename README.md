@@ -25,7 +25,7 @@
 
 </div>
 
-  📧 Contact me
+  📫 Contact me
 
 <a href="mailto:bravolin9527@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-bravolin9527@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)
 
