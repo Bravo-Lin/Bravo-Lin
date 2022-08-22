@@ -2,7 +2,7 @@
 
 <h1>
   <b>
- 👋 Hello there ，i'm Bravo Lin
+ 👋 Hello there ，I'm Bravo Lin
   </b>
 </h1>
 
