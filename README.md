@@ -29,7 +29,6 @@
 
 <a href="mailto:bravolin9527@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-bravolin9527@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)
 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bravo-Lin&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 </a>
 
